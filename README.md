@@ -1,6 +1,6 @@
 # Getting to Blinky with Kicad.
 
-Learning the pipeline of creating a PCB (printed circuit board) from scratch. From ground zero design using Kicad, to ordering the PCB, and finally using SMD soldering to put it together. This project is building [flashing LED circuit](http://www.555-timer-circuits.com/flashing-led.html) using a [7555](http://www.nxp.com/documents/data_sheet/ICM7555.pdf) CMOS timer.
+Learning the pipeline of creating a PCB (printed circuit board) from scratch. From ground zero design using [Kicad](http://kicad-pcb.org/), to ordering the PCB via [OSHPark]https://oshpark.com, and finally using SMD soldering to put it together. This project is building [flashing LED circuit](http://www.555-timer-circuits.com/flashing-led.html) using a [7555](http://www.nxp.com/documents/data_sheet/ICM7555.pdf) CMOS timer.
 
 # Backstory to this repo.
 
