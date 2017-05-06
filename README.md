@@ -2,6 +2,17 @@
 
 Learning the pipeline of creating a PCB (printed circuit board) from scratch. From ground zero design using [Kicad](http://kicad-pcb.org/), to ordering the PCB via [OSHPark]https://oshpark.com, and finally using SMD soldering to put it together. This project is building [flashing LED circuit](http://www.555-timer-circuits.com/flashing-led.html) using a [7555](http://www.nxp.com/documents/data_sheet/ICM7555.pdf) CMOS timer.
 
+### Schema creation.
+![alt text](/img/schema.png)
+
+
+### Starting the layout process.
+![alt text](/img/layingoutpcb.png)
+
+### Complete PCB product! It blinks lol.
+![alt text](/img/pcbcomplete.png)
+
+
 # Backstory to this repo.
 
 This started because I tried to build an open source hardware device called the [CANtact](http://linklayer.github.io/cantact/). I wanted to make my own CAN sniffer so that I could look into decoding CAN messages. The CANtact hooks into your car via an OBD2 wire and connects to a computer via USB... Long story short I bit off more than I could chew; I never soldered before and this required SMD soldering.
